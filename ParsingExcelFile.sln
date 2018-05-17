@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingExcelFile.XLSX.UnitT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingExcelFile.Consts", "ParsingExcelFile.Consts\ParsingExcelFile.Consts.csproj", "{B03AD4EC-75E9-42AA-A743-A1E8AF00E8CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsingExcelFile.ADO-Net", "ParsingExcelFile.ADO-Net\ParsingExcelFile.ADO-Net.csproj", "{B609CE76-D223-417A-86D9-0EA186959F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B03AD4EC-75E9-42AA-A743-A1E8AF00E8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B03AD4EC-75E9-42AA-A743-A1E8AF00E8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B03AD4EC-75E9-42AA-A743-A1E8AF00E8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B609CE76-D223-417A-86D9-0EA186959F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B609CE76-D223-417A-86D9-0EA186959F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B609CE76-D223-417A-86D9-0EA186959F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B609CE76-D223-417A-86D9-0EA186959F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
